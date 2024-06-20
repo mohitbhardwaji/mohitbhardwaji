@@ -47,5 +47,3 @@
 <img src="https://raw.githubusercontent.com/mohitbhardwaji/mohitbhardwaji/output/snake.svg" alt="Snake animation" />
 
 ###
-
-###
